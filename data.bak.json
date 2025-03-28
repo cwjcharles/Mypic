@@ -1,0 +1,133 @@
+{
+  "picBed": {
+    "current": "smms",
+    "uploader": "smms",
+    "smms": {
+      "token": "",
+      "_configName": "Default",
+      "_id": "d8358d4f-6a35-436d-8565-e54e5bf8e5d9",
+      "_createdAt": 1743135183156,
+      "_updatedAt": 1743135183156
+    },
+    "lskyplist": {
+      "_configName": "Default",
+      "_id": "91bf6a18-a0bf-4391-a677-ff6ca4bc6b9f",
+      "_createdAt": 1743135192356,
+      "_updatedAt": 1743135192356
+    },
+    "qiniu": {
+      "_configName": "Default",
+      "_id": "8f465358-4057-4f28-92a3-188869bc7b5f",
+      "_createdAt": 1743135197375,
+      "_updatedAt": 1743135197375
+    },
+    "sftpplist": {
+      "_configName": "Default",
+      "_id": "52f90e30-40d9-45c4-9f6b-20c681d92598",
+      "_createdAt": 1743135197790,
+      "_updatedAt": 1743135197790
+    },
+    "upyun": {
+      "_configName": "Default",
+      "_id": "aeed79e3-320f-48bb-aac6-2b15f6bf9dda",
+      "_createdAt": 1743135198302,
+      "_updatedAt": 1743135198302
+    },
+    "webdavplist": {
+      "_configName": "Default",
+      "_id": "be31b6ab-facc-4986-be79-2b3206a2f9f3",
+      "_createdAt": 1743135198693,
+      "_updatedAt": 1743135198693
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Alt+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "server": {
+      "port": 36677,
+      "host": "0.0.0.0",
+      "enable": true
+    },
+    "isListeningClipboard": false,
+    "showUpdateTip": true
+  },
+  "picgoPlugins": {},
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "needReload": false,
+  "uploader": {
+    "smms": {
+      "configList": [
+        {
+          "token": "",
+          "_configName": "Default",
+          "_id": "d8358d4f-6a35-436d-8565-e54e5bf8e5d9",
+          "_createdAt": 1743135183156,
+          "_updatedAt": 1743135183156
+        }
+      ],
+      "defaultId": "d8358d4f-6a35-436d-8565-e54e5bf8e5d9"
+    },
+    "lskyplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "91bf6a18-a0bf-4391-a677-ff6ca4bc6b9f",
+          "_createdAt": 1743135192356,
+          "_updatedAt": 1743135192356
+        }
+      ],
+      "defaultId": "91bf6a18-a0bf-4391-a677-ff6ca4bc6b9f"
+    },
+    "qiniu": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "8f465358-4057-4f28-92a3-188869bc7b5f",
+          "_createdAt": 1743135197375,
+          "_updatedAt": 1743135197375
+        }
+      ],
+      "defaultId": "8f465358-4057-4f28-92a3-188869bc7b5f"
+    },
+    "sftpplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "52f90e30-40d9-45c4-9f6b-20c681d92598",
+          "_createdAt": 1743135197790,
+          "_updatedAt": 1743135197790
+        }
+      ],
+      "defaultId": "52f90e30-40d9-45c4-9f6b-20c681d92598"
+    },
+    "upyun": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "aeed79e3-320f-48bb-aac6-2b15f6bf9dda",
+          "_createdAt": 1743135198302,
+          "_updatedAt": 1743135198302
+        }
+      ],
+      "defaultId": "aeed79e3-320f-48bb-aac6-2b15f6bf9dda"
+    },
+    "webdavplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "be31b6ab-facc-4986-be79-2b3206a2f9f3",
+          "_createdAt": 1743135198693,
+          "_updatedAt": 1743135198693
+        }
+      ],
+      "defaultId": "be31b6ab-facc-4986-be79-2b3206a2f9f3"
+    }
+  }
+}
